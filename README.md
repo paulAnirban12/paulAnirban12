@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @paulAnirban12
-- 👀 I’m interested in Software and Web Development
-- 🌱 I’m currently learning PHP with Laravel
+- 👀 I’m interested in Data Analysis
 
 
 <!---
